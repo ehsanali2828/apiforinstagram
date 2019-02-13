@@ -32,7 +32,7 @@ if (!empty($_GET['location'])) {
 <html lang="en">
 <head>
     <meta charset="utf-8"/>
-    <title>geogram</title>
+    <title>Get Pictures By Search</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="script.js"></script>
 </head>
